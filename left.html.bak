@@ -1,0 +1,30 @@
+<HTML>
+ <HEAD>
+  <TITLE> left </TITLE>
+ </HEAD>
+
+ <BODY>
+  <table align="center"  width="100% " BGCOLOR="#FFFFFF">
+<tr>
+ <td> <a href = "zaborino.html" TARGET="_blank"> За Борино </td>
+ <td> <a href = "razpolojenie.html" TARGET="_blank"> Разположение </td>
+ <td> <a href = "istoriq.html" TARGET="_blank"> История </td>
+ <td> <a href = "resursi.html" TARGET="_blank"> Природни ресурси </td>
+ <td> <a href = "zdraveopazvane.html" TARGET="_blank"> Здравеопазване </td>
+ <td> <a href = "obrazovanie.html" TARGET="_blank"> Образование </td>
+</tr>
+<tr>
+ <td> <a href = "zabelejitelnosti.html" TARGET="_blank"> Забележителности </td>
+</tr>
+<tr>
+ <td> <a href = "hoteli.html" TARGET="_blank">  Хотели </td>
+</tr>
+<tr>
+ <td> <a href = "praznici.html" TARGET="_blank"> Празници </td>
+</tr>
+<tr>
+<td> <a href = "galeriq.html" TARGET="_blank"> Галерия </td>
+ </tr>
+</table>
+ </BODY>
+</HTML>
